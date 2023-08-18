@@ -3,5 +3,9 @@
     "clang-format.executable": "C:\\Users\\User\\Documents\\GitHub\\gdextension_example\\godot-cpp\\.clang-format",
     "editor.formatOnSave": true,
     "editor.defaultFormatter": "xaver.clang-format",
-    "cmake.sourceDirectory": "C:/Users/User/Documents/GitHub/gdextension_example/godot-cpp"
+    "cmake.sourceDirectory": "C:/Users/User/Documents/GitHub/gdextension_example/godot-cpp",
+    "C_Cpp.default.compilerPath": "C:\\msys64\\mingw64\\bin\\gcc.exe",
+    "C_Cpp.autocompleteAddParentheses": true,
+    "C_Cpp.default.cppStandard": "c++17",
+    "C_Cpp.default.intelliSenseMode": "windows-clang-x64"
 }
