@@ -1,3 +1,7 @@
 {
-    "cmake.configureOnOpen": true
+    "cmake.configureOnOpen": true,
+    "clang-format.executable": "C:\\Users\\User\\Documents\\GitHub\\gdextension_example\\godot-cpp\\.clang-format",
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "xaver.clang-format",
+    "cmake.sourceDirectory": "C:/Users/User/Documents/GitHub/gdextension_example/godot-cpp"
 }
