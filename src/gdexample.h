@@ -17,8 +17,16 @@ class GDExample : public Sprite2D {
     protected:
         static void _bind_methods();
 
-    public:
+        double get_amplitude() const;
+        void set_amplitude(const double new_amplitude);
+        
+        double get_speed() const;
+        void set_speed(const double new_speed);
+
+    private:
         double time_passed;
+        double amplitude;
+        double speed;
 };
 
 }
